@@ -6,6 +6,14 @@
 - A live demo of CyberChef is available at https://gchq.github.io/CyberChef. However, it is recommended to download CyberChef and run it entirely client-side. Since it does not require an internet connection (except for certain operations), running it locally ensures that all your data remains secure.
 - Avoid trying to force CyberChef into tasks it isn’t designed to handle. While it is incredibly versatile, it is not a fully-fledged programming language!
 
+## How to Import Recipes
+
+- In CyberChef, locate the **Recipe column** — The middle colum the interface.
+- Click the **middle button** (labeled `Load Recipe` or with a folder icon).
+- Copy and paste your desired recipe into the editor.
+- The recipe will be applied to your current input data.
+
+
 ## Powershell UTF-16LE-Base64
 ### Encode Powershell UTF-16LE-Base64
 
